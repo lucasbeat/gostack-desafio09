@@ -3,7 +3,7 @@
   "host": "localhost",
   "port": "5432",
   "username": "postgres",
-  "password": "docker",
+  "password": "NirgNFPiv4hA0WFCb",
   "database": "gostack_desafio09_tests",
   "entities": ["./src/modules/**/infra/typeorm/entities/*.ts"],
   "migrations": ["./src/shared/infra/typeorm/migrations/*.ts"],
